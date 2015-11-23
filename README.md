@@ -1,7 +1,7 @@
 WTF, Zipcodes?
 --------------
 
-![](img\Mr_Zip.png)
+![](img/Mr_Zip.png?raw=true)
 
 _[Mr. ZIP](https://en.wikipedia.org/wiki/Mr._ZIP)_
 
