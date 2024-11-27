@@ -5,8 +5,8 @@ WTF, Zipcodes?
 
 _[Mr. ZIP](https://en.wikipedia.org/wiki/Mr._ZIP)_
 
-[ZIP codes](https://en.wikipedia.org/wiki/ZIP_code) are the
-United States Postal Service's method for identifying a mail delivery route. Practically, they are often used as a method to denote a general locality on web applications that rely on user location (i.e. nearby restaurants).
+[ZIP codes](https://en.wikipedia.org/wiki/ZIP_code) were introduced in the United States in 1963 as a way for the Post Office Department
+(later reorganized as the United States Postal Service in 1971) to deliver mail more efficiently. [This vintage video from 1967](https://catalog.archives.gov/id/6987) helpfully explains both the problem and solution in musical form. Practically, ZIP codes are often used as a method to denote a general locality on web applications that rely on user location (i.e. nearby restaurants).
 
 ZIP codes are often a source of confusion because they're fundamentally different from other types of location data.
 
